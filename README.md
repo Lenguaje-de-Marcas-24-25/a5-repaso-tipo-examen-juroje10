@@ -1,2 +1,10 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/2wU6us-7)
-TIPO examen 
+# Repaso tipo examen
+
+### Carta del I.E.S Gran Capitán
+[Carta grande es el Gran Capitán](Carta_grande_es_el_capitan.xml)
+
+### Ejercicio repaso 2.1
+[Ejercicio_2.1_A5_ Repaso](Ejercicio_2.1_A5_ Repaso.xml)
+
+### Ejercicio repaso 2.2
+[Ejercicio_2.2_A5_Repaso](Ejercicio_2.2_A5_Repaso.xml)
